@@ -1,0 +1,4 @@
+@font-face {
+  font-family: 'Aolen'; /* Название шрифта, которое будет использоваться в CSS */
+  src: url('Aolen.ttf') format('truetype'); /* Путь к файлу шрифта */
+}
